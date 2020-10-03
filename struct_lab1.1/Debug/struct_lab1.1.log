@@ -1,0 +1,6 @@
+﻿  struct_lab1.1.cpp
+d:\work\programming\struct_lab1.1\struct_lab1.1\struct_lab1.1.cpp(38): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\work\programming\struct_lab1.1\struct_lab1.1\struct_lab1.1.cpp(225): warning C4244: аргумент: преобразование "time_t" в "int", возможна потеря данных
+d:\work\programming\struct_lab1.1\struct_lab1.1\struct_lab1.1.cpp(192): warning C4101: buff: неиспользованная локальная переменная
+d:\work\programming\struct_lab1.1\struct_lab1.1\struct_lab1.1.cpp(1471): warning C4715: Err: значение возвращается не при всех путях выполнения
+  struct_lab1.1.vcxproj -> D:\work\programming\struct_lab1.1\Debug\struct_lab1.1.exe
